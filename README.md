@@ -1,4 +1,4 @@
-This project was a fun way to learn C. It is not practical, do not use it.
+This project was a fun way to learn C in highschool. It is not operationally sound, do not use it. 
 
 ## Dependencies
 mingw-w64 (For cross compilation to Windows)
